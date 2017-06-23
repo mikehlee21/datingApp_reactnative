@@ -1,6 +1,6 @@
 ### React Native Dating app
 
-__[Dating app](https://dribbble.com/shots/3382557-Dating-app) by [Vitaly Silkin](https://dribbble.com/colder)__
+__[Dating app](https://dribbble.com/shots/3382557-Dating-app) by Ren.
 
 Exponent: https://exp.host/@catalinmiron/react-native-dating-app
 
